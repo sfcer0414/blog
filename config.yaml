@@ -1,4 +1,5 @@
-baseURL: http://sfcer0414.github.com/blog
+baseURL: http://sfcer0414.github.io/blog/
 languageCode: zh-tw
 title: "程式碼上瘋"
 theme: "m10c"
+publishDir: "docs"
